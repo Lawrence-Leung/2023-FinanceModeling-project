@@ -1,6 +1,6 @@
 # Design of a cross-border ETF arbitrage strategy model
 
----
+
 
 ## Award results
 
