@@ -21,7 +21,9 @@
 
 ## 仓库内容
 
-- `/code`：主要代码，基于Python 3.8环境。
+- `/code`：模型主要代码，基于Python 3.8环境。
+- `/sec2_process`：实测报告测试代码，基于Python 3.8环境。
+- `/references`：参与设计过程中所引用的文件、竞赛赛题等参考文献文档。
 - `/Contest_Paper_202311081259.pdf`：模型阐述文档。
 - `/Test_Report_Final_202311171856.pdf`：实测报告文档。
 - `/Promotion_Manuscript.pdf`：答辩演示文稿。
