@@ -23,7 +23,7 @@ The Hang Seng Technology ETF (513130) and the combination of different cross-bor
 
 ## Repository content
 
-- `/code`: main code, based on Python 3.8 environment.
+- `/code`: main code of all core mathematical models, based on Python 3.8 environment.
 - `/sec2_process`: Actual measurement report test code, based on Python 3.8 environment.
 - `/references`: Documents, competition questions and other reference documents cited during the design process.
 - `/Contest_Paper_202311081259.pdf`: Model elaboration document.
