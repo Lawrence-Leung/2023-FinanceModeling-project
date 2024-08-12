@@ -30,7 +30,9 @@
 
 ## 后续研究成果
 
-本项目的后续研究成果已发表于2024年粤港澳大湾区数字经济与人工智能国际学术会议(DEAI2024)。论文引用将在后续更新中发布。
+本项目的后续研究成果已发表于2024年粤港澳大湾区数字经济与人工智能国际学术会议(DEAI2024)。论文引用如下：
+
+Liang, L., Guo, S., & Xie, Z. (2024). Design and analysis of an innovative arbitrage strategy: Bridging stock index futures and cross-border ETFs. In Proceedings of the 2024 Guangdong-Hong Kong-Macao Greater Bay Area International Conference on Digital Economy and Artificial Intelligence (pp. 909–914). Association for Computing Machinery. https://doi.org/10.1145/3675417.3675568
 
 ## 版权
 
