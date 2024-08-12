@@ -32,7 +32,9 @@ The Hang Seng Technology ETF (513130) and the combination of different cross-bor
 
 ## Follow-up research results
 
-The follow-up research results of this project have been published at the 2024 Guangdong-Hong Kong-Macao Greater Bay Area International Academic Conference on Digital Economy and Artificial Intelligence (DEAI2024). Paper citations will be published in subsequent updates.
+The follow-up research results of this project have been published at the 2024 Guangdong-Hong Kong-Macao Greater Bay Area International Academic Conference on Digital Economy and Artificial Intelligence (DEAI2024). The citation information of this paper is listed below:
+
+Liang, L., Guo, S., & Xie, Z. (2024). Design and analysis of an innovative arbitrage strategy: Bridging stock index futures and cross-border ETFs. In Proceedings of the 2024 Guangdong-Hong Kong-Macao Greater Bay Area International Conference on Digital Economy and Artificial Intelligence (pp. 909–914). Association for Computing Machinery. https://doi.org/10.1145/3675417.3675568
 
 ## Copyright
 
